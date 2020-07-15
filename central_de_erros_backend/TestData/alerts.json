@@ -1,0 +1,14 @@
+﻿[
+  {
+    "Level": "error",
+    "Title": "acceleration.Detail: <not_found>",
+    "Description": "File asdasdsajdnsdjnjnsads",
+    "Origin": "192.168.0.1",
+    "Date": "2019-05-13 00:58:05",
+    "Type": "producao",
+    "NumEvents": 40,
+    "Archived": false,
+    "Token": "017a6b8wec7v5avasd6fg",
+    "UserId": 1
+  }
+]
